@@ -1,0 +1,26 @@
+{
+    "name": "todolist_assignment",
+    "version": "1.0.0",
+    "description": "assignment",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/real-rpj11/ToDoList_Assignment.git"
+    },
+    "author": "Roxas",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/real-rpj11/ToDoList_Assignment/issues"
+    },
+    "homepage": "https://github.com/real-rpj11/ToDoList_Assignment#readme",
+    "dependencies": {
+        "body-parser": "^1.19.0",
+        "ejs": "^3.1.5",
+        "express": "^4.17.1",
+        "nodemon": "^2.0.6"
+    }
+}
